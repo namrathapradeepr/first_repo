@@ -1,2 +1,5 @@
 line1 --modified by main
 line2 --modified by main
+
+
+line 3---checking status after modification
